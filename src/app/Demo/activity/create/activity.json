@@ -7,7 +7,7 @@
     "display": {
         "category": "Demo"
     },
-    "ref": "git.tibco.com/git/product/ipaas/wi-demo.git/src/app/Demo/activity/create",
+    "ref": "https://github.com/abhishekdoshi-tibco/demo/tree/main/src/app/Demo/activity/create",
     "inputs": [
         {
             "name": "name",
