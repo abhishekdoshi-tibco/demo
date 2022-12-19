@@ -7,7 +7,7 @@
     "display": {
         "category": "Demo"
     },
-    "ref": "https://github.com/abhishekdoshi-tibco/demo/tree/main/src/app/Demo/activity/create",
+    "ref": "github.com/abhishekdoshi-tibco/demo/tree/main/src/app/Demo/activity/create",
     "inputs": [
         {
             "name": "name",
