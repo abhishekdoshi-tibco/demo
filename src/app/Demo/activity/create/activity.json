@@ -1,0 +1,34 @@
+
+{
+    "name": "create",
+    "version": "1.0.0",
+    "type": "flogo:activity",
+    "title": "create",
+    "display": {
+        "category": "Demo"
+    },
+    "ref": "git.tibco.com/git/product/ipaas/wi-demo.git/src/app/Demo/activity/create",
+    "inputs": [
+        {
+            "name": "name",
+            "type": "string",
+            "value": "Abhishek"
+          },
+          {
+            "name": "salary",
+            "type": "string",
+            "value": 2500
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "value": 25
+          }
+    ],
+    "outputs": [
+        {
+            "name": "result",
+            "type": "any"
+        }
+    ]
+}
