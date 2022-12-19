@@ -1,0 +1,9 @@
+{
+    "entities": [
+        { "name": "./dist", "flatten": false, "root": true }
+
+    ],
+    "options": {
+        "output": "./DemoContribution.zip"
+    }
+}

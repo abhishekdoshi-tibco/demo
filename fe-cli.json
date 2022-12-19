@@ -1,0 +1,30 @@
+{
+    "name": "Demo",
+    "contributions": {
+        "create": {
+            "name": "create",
+            "type": "activity",
+            "imports": [
+                {
+                    "@angular/common": [
+                        "CommonModule"
+                    ]
+                },
+                {
+                    "@angular/http": [
+                        "HttpModule"
+                    ]
+                }
+            ],
+            "services": [
+                {
+                    "WiServiceContribution": {
+                        "name": "create",
+                        "type": "handler",
+                        "sample": false
+                    }
+                }
+            ]
+        }
+    }
+}
